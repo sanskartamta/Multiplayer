@@ -1,0 +1,545 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1703669802241704, "dur":2671, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669802244389, "dur":91, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1703669802244500, "dur":23, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1703669802244523, "dur":2208, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1703669802246913, "dur":2273, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669802249186, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803109880, "dur":280, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110160, "dur":130, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110291, "dur":18, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110309, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110324, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110325, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110331, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110332, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110335, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110336, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110340, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110341, "dur":17, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110359, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110360, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110364, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110365, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110367, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110368, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110381, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110382, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110390, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110390, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110393, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110394, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110397, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110397, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110400, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110400, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110403, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110404, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110406, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110407, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110410, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110411, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110413, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110413, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110416, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110417, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110419, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110420, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110423, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110437, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803110450, "dur":1662, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1703669802246381, "dur":2832, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802249218, "dur":7890, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802257121, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1703669802257130, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802261089, "dur":1872, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1703669802262970, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1703669802263087, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802263606, "dur":4170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1703669802267781, "dur":26917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703669802294704, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802294805, "dur":4614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703669802299446, "dur":538460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703669802837909, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703669802837915, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703669802839116, "dur":270789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802248665, "dur":811, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802249476, "dur":7868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802257345, "dur":852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1703669802258208, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802263267, "dur":5631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1703669802268950, "dur":269782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802538736, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802538743, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802540090, "dur":184690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802724783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802724805, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802727460, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Plugins/x86_64/nanosockets.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802727658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802728295, "dur":1180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Plugins/x86_64/nanosockets.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703669802729509, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1703669802729539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802729544, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1703669802730595, "dur":7421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1703669802738018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703669802738022, "dur":863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1703669802738901, "dur":370966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802251942, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802251943, "dur":5289, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802257233, "dur":594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1703669802257834, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802265834, "dur":4233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1703669802270127, "dur":31627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802301759, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802301782, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802303896, "dur":69146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802373046, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802373053, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802374466, "dur":18545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802393014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802393018, "dur":1484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802394530, "dur":17320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802411853, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802411861, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802413148, "dur":21702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802434855, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802434865, "dur":1716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802436607, "dur":46484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802483095, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802483102, "dur":22576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802505702, "dur":315566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802821272, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703669802821282, "dur":1593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703669802822904, "dur":287009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802247179, "dur":2168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802249348, "dur":8055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802257404, "dur":526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1703669802257941, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802275596, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1703669802277887, "dur":20876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802298767, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802298825, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802300558, "dur":66333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802366895, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802366963, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802368222, "dur":40064, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802408292, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802408302, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802409827, "dur":16284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802426116, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802426125, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802427831, "dur":209126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802636964, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802636974, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802638860, "dur":186783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802825647, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703669802825655, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703669802827189, "dur":282766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802247661, "dur":1774, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802249436, "dur":7904, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802257341, "dur":727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1703669802258077, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802262610, "dur":5795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1703669802268486, "dur":39069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample.exe" }}
+,{ "pid":12345, "tid":5, "ts":1703669802307560, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802307567, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample.exe" }}
+,{ "pid":12345, "tid":5, "ts":1703669802309661, "dur":416990, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703669802726654, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802726662, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703669802728069, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1703669802728092, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802728123, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1703669802729192, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802729224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802729230, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802730347, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1703669802730404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802730408, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1703669802731367, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802731420, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802731423, "dur":709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732149, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732170, "dur":774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732970, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732996, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802732999, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1703669802734424, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1703669802734451, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802734456, "dur":1226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1703669802735706, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1703669802735734, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703669802735740, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1703669802736769, "dur":373096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802248176, "dur":1278, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802249455, "dur":7884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802257340, "dur":16337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1703669802273682, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802273703, "dur":2878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1703669802276625, "dur":25189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802301817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802301824, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802304044, "dur":102955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802407005, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802407015, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802409155, "dur":33210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802442369, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802442378, "dur":1326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802443729, "dur":70602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802514336, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802514373, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802515602, "dur":201534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802717140, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802717147, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802718482, "dur":192001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Common.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802910504, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703669802910513, "dur":1775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Common.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703669802912328, "dur":197661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802248981, "dur":557, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802249538, "dur":7584, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802257123, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1703669802257455, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802263199, "dur":5307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1703669802268562, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1703669802268707, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802269604, "dur":7195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1703669802276888, "dur":27630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802304559, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802304565, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802306103, "dur":34413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802340520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802340526, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802341984, "dur":60906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802402896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802402905, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802404403, "dur":138677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802543084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802543093, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802544656, "dur":239388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802784047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703669802784054, "dur":1260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703669802785346, "dur":324577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802249279, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802249280, "dur":8146, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802257427, "dur":566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1703669802258002, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802276699, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1703669802278646, "dur":24603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802303253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802303260, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802304557, "dur":188255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802492815, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802492821, "dur":12866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802505705, "dur":18806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802524515, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802524522, "dur":1271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802525811, "dur":140923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802666738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802666745, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802668717, "dur":37402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/NanoSockets.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802706122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802706127, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/NanoSockets.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802707171, "dur":256849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802964023, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703669802964030, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703669802965337, "dur":144536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802249477, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802249479, "dur":7759, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802257239, "dur":674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1703669802257922, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802266790, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1703669802270241, "dur":56531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802326777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802326785, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802328268, "dur":47144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802375415, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802375423, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802376970, "dur":15743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802392717, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802392724, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802394172, "dur":18103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802412279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802412285, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802413995, "dur":27955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802441954, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669802441962, "dur":1506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669802443496, "dur":664333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669803107832, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703669803107839, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703669803109822, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":9, "ts":1703669803109824, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802249750, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802249752, "dur":7723, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802257476, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1703669802257808, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802264121, "dur":5998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1703669802270145, "dur":38620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802308773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802308780, "dur":1369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802310169, "dur":113474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802423648, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802423657, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802425540, "dur":494658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802920202, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703669802920210, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703669802921817, "dur":188124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802249942, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802249943, "dur":7478, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802257422, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1703669802257796, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802262508, "dur":6476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1703669802269049, "dur":436158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703669802705210, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802705217, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703669802706683, "dur":279440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703669802986127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703669802986137, "dur":2650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703669802988808, "dur":121165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802250355, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802250356, "dur":7041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802257398, "dur":32035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1703669802289439, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802289457, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1703669802291114, "dur":18027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802309144, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802309151, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802310394, "dur":34682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802345080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802345087, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802346793, "dur":33278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802380075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802380081, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802381636, "dur":16527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802398167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802398175, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802399552, "dur":15940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802415496, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802415503, "dur":1758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802417289, "dur":37549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802454841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802454847, "dur":50366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802505235, "dur":207931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802713169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802713174, "dur":1665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802714874, "dur":137599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Realtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802852476, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703669802852483, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Realtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703669802854122, "dur":255760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802250649, "dur":2, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802250653, "dur":6562, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802257216, "dur":25516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1703669802282737, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802282755, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1703669802284585, "dur":15919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802300529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802300537, "dur":2154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802302726, "dur":19334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802322063, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802322070, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802323336, "dur":18766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802342104, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802342109, "dur":1010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802343142, "dur":12109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802355255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802355261, "dur":1337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802356625, "dur":37896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802394525, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802394567, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802395813, "dur":23498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802419315, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802419323, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802421536, "dur":15792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802437331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802437337, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802438405, "dur":368550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802806959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1703669802806966, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1703669802808374, "dur":301593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802251103, "dur":2, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802251106, "dur":6007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802257122, "dur":163629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1703669802420756, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802421265, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1703669802422490, "dur":220361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1703669802642857, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802642866, "dur":2364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1703669802645250, "dur":148258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":14, "ts":1703669802793512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1703669802793518, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":14, "ts":1703669802794955, "dur":315055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802251550, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802251552, "dur":5855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802257408, "dur":24646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1703669802282060, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802282079, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1703669802283593, "dur":16933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802300530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802300583, "dur":2467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802303076, "dur":24512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802327591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802327595, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802328582, "dur":10656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802339241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802339246, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802340500, "dur":11962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802352465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802352470, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802354124, "dur":25685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802379813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802379821, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802381395, "dur":37176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802418573, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802418581, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802420463, "dur":31016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802451481, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802451511, "dur":20940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802472471, "dur":248221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802720696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802720703, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802722205, "dur":787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Addressables.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802722995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802723000, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Addressables.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802724246, "dur":140395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802864673, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1703669802864682, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1703669802866632, "dur":243358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802251634, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802251634, "dur":5600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802257235, "dur":20173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1703669802277412, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802277429, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1703669802278787, "dur":29147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802307937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802307944, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802309532, "dur":26183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802335718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802335725, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802337142, "dur":12904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802350050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802350056, "dur":1100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802351175, "dur":21044, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802372223, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802372229, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802373656, "dur":19305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802392965, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802392975, "dur":1602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802394604, "dur":45827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802440434, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802440441, "dur":1312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802441773, "dur":116345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802558121, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802558128, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802559278, "dur":151834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802711115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802711120, "dur":1733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802712871, "dur":142297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802855171, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1703669802855178, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1703669802856551, "dur":253333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802246671, "dur":2561, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802249232, "dur":8276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802257508, "dur":3833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802261421, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802262154, "dur":7363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802269544, "dur":27427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802296978, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802297737, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802299566, "dur":20210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802319780, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802319787, "dur":1357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802321163, "dur":53043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802374209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802374216, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802375622, "dur":18093, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802393718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802393724, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802395290, "dur":16813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802412106, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802412113, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802413522, "dur":36546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802450072, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802450079, "dur":21760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802471864, "dur":96517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802568386, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802568393, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802569785, "dur":227522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802797310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1703669802797314, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1703669802798418, "dur":311547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802252118, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802252119, "dur":5098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802257219, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1703669802257408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802261785, "dur":6383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1703669802268205, "dur":6456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":18, "ts":1703669802274666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802274672, "dur":3251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":18, "ts":1703669802277953, "dur":138982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802416940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802416950, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802418411, "dur":82702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802501117, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802501124, "dur":4574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802505721, "dur":203676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802709400, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802709406, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802710796, "dur":63654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Sockets.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802774454, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1703669802774460, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Fusion.Sockets.dll" }}
+,{ "pid":12345, "tid":18, "ts":1703669802775685, "dur":334177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802252335, "dur":2, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802252337, "dur":4848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802257186, "dur":1189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":19, "ts":1703669802258399, "dur":24, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802262544, "dur":5287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":19, "ts":1703669802267861, "dur":84184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802352048, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802352053, "dur":9818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802361891, "dur":15733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802377626, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802377651, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802378766, "dur":88488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802467258, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802467264, "dur":37970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802505253, "dur":143934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802649191, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802649200, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802651475, "dur":180097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802831576, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1703669802831583, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":19, "ts":1703669802833076, "dur":276818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802252664, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802252666, "dur":4516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802257183, "dur":17417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1703669802274605, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802274693, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1703669802276536, "dur":31564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802308103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802308108, "dur":1571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802309699, "dur":66061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802375764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802375770, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802376985, "dur":19283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802396272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802396279, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802397538, "dur":17686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802415227, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802415234, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802417202, "dur":14558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802431767, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802431777, "dur":1461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802433265, "dur":106362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802539631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802539636, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802540630, "dur":191679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802732312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802732318, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":20, "ts":1703669802734448, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":20, "ts":1703669802734474, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802734487, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":20, "ts":1703669802735768, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/boot.config" }}
+,{ "pid":12345, "tid":20, "ts":1703669802735861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1703669802735865, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Sanskar/Desktop/MultiPlayer/Fusion API sample_Data/boot.config" }}
+,{ "pid":12345, "tid":20, "ts":1703669802736793, "dur":373092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703669803113265, "dur":1174, "ph":"X", "name": "ProfilerWriteOutput" }
+,
